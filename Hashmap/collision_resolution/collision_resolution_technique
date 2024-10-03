@@ -1,0 +1,7 @@
+package Hashmap.collision_resolution;
+/*
+ *      Collision Resolution technique--->1.Chaining------Lnked list 
+ *                                        2. open Addresing--- (a) Linear Probing (b) Quardetic proving (c) Double Hashing
+ * 
+ */
+
